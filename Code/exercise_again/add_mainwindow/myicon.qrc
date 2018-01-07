@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>actions/actions/add.png</file>
+    </qresource>
+</RCC>

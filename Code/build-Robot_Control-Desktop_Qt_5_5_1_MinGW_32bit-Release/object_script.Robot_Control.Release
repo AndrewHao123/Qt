@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\logindialog.o
+./release\serverwidget.o
+./release\clientwidget.o
+./release\qrc_icon.o
+./release\moc_mainwindow.o
+./release\moc_logindialog.o
+./release\moc_serverwidget.o
+./release\moc_clientwidget.o
+);
